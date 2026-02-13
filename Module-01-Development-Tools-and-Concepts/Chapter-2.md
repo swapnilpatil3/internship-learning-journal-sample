@@ -1,16 +1,18 @@
-Name: Swapnil Patil
-USN: 2BL22IS059
-Topic:
-Introduction to Windows Subsystem for Linux (WSL)
+# Week 1 – Session 2 | Tools in Data Science (TDS) 
+**Video Link:** https://youtu.be/RoRy1jKewhA  
 
-What I Learned:
-Learned what WSL is and why it is used in development.
-Understood the importance of Linux environments in data science.
-Learned the steps to enable WSL on Windows.
-Understood how Ubuntu can run inside Windows.
-Learned about common issues during installation and troubleshooting basics.
-Key Takeaway:
-Linux-based environments are essential for development and data science workflows.
+---
 
-Outcome:
-I now understand how to install and use WSL for creating a Linux development environment.
+## What I Learned
+- Understood data collection and processing steps.
+- Learned about structured and unstructured data.
+- Gained clarity on data preparation basics.
+
+## Tools / Skills Discussed
+- Data collection methods  
+- Data preprocessing  
+- Data formats  
+
+## Outcome
+This session improved my understanding of how raw data is prepared before analysis.
+
