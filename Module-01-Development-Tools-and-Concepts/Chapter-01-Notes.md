@@ -1,18 +1,23 @@
-**Name:** Swapnil Patil
-**USN:** 2BL22IS059
-**Video Title:**
-**Week 1 – **Session 1 | Tools in Data Science
+# Week 1 – Session 1 | Tools in Data Science (TDS)
 
-What I Learned:
-Understood the structure and objectives of the Tools in Data Science course.
-Learned how learning progress and attendance are tracked.
-Understood the importance of documenting daily learning.
-Learned about different platforms used for course management and submissions.
-Got an overview of tools commonly used in data science projects.
-Key Concepts:
-Course workflow
-Learning documentation
-Importance of tools in data science
-Outcome:
-This session helped me clearly understand the course expectations and the importance of maintaining a learning journal.
+**Name:** Swapnil Patil  
+**USN:** 2BL22IS059  
+**Video Link:** https://youtu.be/B7iHBHCruCc  
+
+---
+
+## What I Learned
+- Introduction to Tools in Data Science (TDS).
+- Overview of the data science field and its applications.
+- Understood course structure and practical approach.
+
+## Tools / Skills Discussed
+- Basics of data science workflow  
+- Essential tools overview  
+- Real-world applications  
+
+## Outcome
+This session gave me a strong foundation in understanding the role of tools in data science.
+
+
 
