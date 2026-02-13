@@ -1,7 +1,7 @@
-Name: Swapnil Patil
-USN: 2BL22IS059
-Video Title:
-Week 1 – Session 1 | Tools in Data Science
+**Name:** Swapnil Patil
+**USN:** 2BL22IS059
+**Video Title:**
+**Week 1 – **Session 1 | Tools in Data Science
 
 What I Learned:
 Understood the structure and objectives of the Tools in Data Science course.
@@ -15,3 +15,4 @@ Learning documentation
 Importance of tools in data science
 Outcome:
 This session helped me clearly understand the course expectations and the importance of maintaining a learning journal.
+
