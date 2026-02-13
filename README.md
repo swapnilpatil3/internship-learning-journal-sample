@@ -1,8 +1,8 @@
 # Internship Learning Journal  
-**Name:** Swapnil Patil
-**USN:** 2BL22IS059
-**GitHub Username:** swapnilpatil3 
-**Department:** ISE  
+**Name:** Swapnil Patil       
+**USN:** 2BL22IS059   
+**GitHub Username:** swapnilpatil3    
+**Department:** ISE     
 **Internship Start Date:** 03-02-2026
 
 ---
