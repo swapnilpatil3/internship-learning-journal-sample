@@ -28,7 +28,7 @@ The lecture bridged the gap between academic learning and industry-level impleme
 
 #  Detailed Concepts Covered
 
-## 1️⃣ Workflow Reproducibility
+##  Workflow Reproducibility
 
 Reproducibility was discussed as a fundamental requirement in professional environments.
 
@@ -44,7 +44,7 @@ The session emphasized that reproducibility builds credibility in analytical res
 
 ---
 
-## 2️⃣ Version Control & Collaboration
+##  Version Control & Collaboration
 
 A major focus was on professional use of version control systems.
 
@@ -60,7 +60,7 @@ The importance of Git and GitHub in teamwork and industry-level projects was cle
 
 ---
 
-## 3️⃣ Structured Project Organization
+##  Structured Project Organization
 
 The session demonstrated best practices for organizing a data science repository:
 
@@ -74,7 +74,7 @@ This structured approach improves readability, maintainability, and scalability.
 
 ---
 
-## 4️⃣ Documentation Practices
+##  Documentation Practices
 
 Professional documentation was discussed in detail.
 
@@ -90,7 +90,7 @@ The session reinforced that documentation is as important as coding.
 
 ---
 
-## 5️⃣ Experimentation & Iterative Improvement
+##  Experimentation & Iterative Improvement
 
 The session highlighted:
 
@@ -103,7 +103,7 @@ This structured experimentation mindset is essential in real-world data science 
 
 ---
 
-## 6️⃣ Error Handling & Debugging Practices
+##  Error Handling & Debugging Practices
 
 The session also covered:
 
@@ -127,7 +127,7 @@ This approach improves reliability and confidence in project execution.
 
 ---
 
-# 📊 Practical Skills Strengthened
+#  Practical Skills Strengthened
 
 - Professional repository management  
 - Structured experimentation  
