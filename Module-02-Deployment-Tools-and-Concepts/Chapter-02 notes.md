@@ -1,7 +1,5 @@
 #  Week 2 – Session 2 | Tools in Data Science (TDS)
 
-**Name:** Swapnil Patil  
-**USN:** 2BL22IS059  
 **Course:** Tools in Data Science (TDS)  
 **Duration:** 2 Hours 36 Minutes  
 **Video Link:** https://youtu.be/ytGxUwBkcXU  
@@ -20,7 +18,7 @@ The lecture moved beyond theoretical understanding and demonstrated structured i
 
 #  Detailed Topics Covered
 
-## 1️⃣ Structured Data Science Pipeline
+##  Structured Data Science Pipeline
 
 The session reinforced the importance of following a systematic pipeline:
 
@@ -36,7 +34,7 @@ It highlighted how skipping structured steps can lead to inconsistent or unrelia
 
 ---
 
-## 2️⃣ Data Processing & Transformation
+##  Data Processing & Transformation
 
 Detailed discussion on:
 
@@ -51,7 +49,7 @@ Emphasis was placed on maintaining data integrity throughout transformations.
 
 ---
 
-## 3️⃣ Tool Integration in Workflow
+##  Tool Integration in Workflow
 
 The session demonstrated how multiple tools must work together:
 
@@ -65,7 +63,7 @@ The key takeaway was that tools should complement each other rather than operate
 
 ---
 
-## 4️⃣ Reproducibility & Version Control
+##  Reproducibility & Version Control
 
 Strong emphasis was placed on:
 
@@ -79,7 +77,7 @@ The importance of Git & GitHub in professional environments was clearly discusse
 
 ---
 
-## 5️⃣ Workflow Optimization
+##  Workflow Optimization
 
 The instructor explained:
 
@@ -93,7 +91,7 @@ This section was particularly important for writing production-level code.
 
 ---
 
-## 6️⃣ Real-World Application Discussion
+##  Real-World Application Discussion
 
 The session included examples showing:
 
