@@ -1,5 +1,4 @@
 # Week 3 – Session 2 | Tools in Data Science (TDS)
-**Course:** Tools in Data Science (TDS)  
 **Duration:** 1 Hour 38 Minutes  
 **Video Link:** https://youtu.be/s-ZQ2I1lE7Y  
 
@@ -139,3 +138,4 @@ After completing this session:
 - I gained confidence in maturing data projects for real-world application.
 
 This session significantly improved my capability to refine and validate professional data science workflows.
+
