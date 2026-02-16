@@ -1,5 +1,4 @@
-# Week 3 – Session 1 | Tools in Data Science (TDS) 
-**Course:** Tools in Data Science (TDS)  
+# Week 3 – Session 1 | Tools in Data Science (TDS)  
 **Duration:** 1 Hour 47 Minutes  
 **Video Link:** https://youtu.be/0x5WK-Haz7Y  
 
