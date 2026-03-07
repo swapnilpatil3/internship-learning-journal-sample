@@ -173,7 +173,7 @@ Key things learned about web scraping include:
 - Understanding how websites organize content using HTML tags
 - Extracting useful information such as tables, links, or text
 - Automating the data collection process
-- Handling dynamic content on websites
+- Handling dynamic content on websites.
 
 Web scraping is useful when websites display information publicly but do not provide downloadable datasets.
 
@@ -291,3 +291,4 @@ Some of the major takeaways from this module include:
 This module provided a strong understanding of how data is collected and prepared for analysis in real-world scenarios. Learning different data sourcing techniques has improved my ability to gather datasets from various platforms and prepare them for further processing.
 
 Overall, this module strengthened my understanding of the **initial stages of the data science pipeline**, which are critical for building accurate and meaningful data-driven solutions.
+
