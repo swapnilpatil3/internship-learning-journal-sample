@@ -49,8 +49,6 @@ Course Link: https://tds.s-anand.net/#/
 ---
 
 ## ❓ Doubts / Topics to Revisit
-- Topic 1  
-- Topic 2  
 
 ---
 
