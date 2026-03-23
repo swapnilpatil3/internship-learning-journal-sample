@@ -1,5 +1,3 @@
-# Module 07: Data Visualization – Learnings
-
 ## What is Data Visualization?
 Data Visualization is the process of converting raw data into visual formats such as charts, graphs, and maps. It helps users understand complex data easily by presenting it in a clear and graphical way. Instead of reading large tables, users can quickly identify patterns, trends, and insights through visuals.
 
