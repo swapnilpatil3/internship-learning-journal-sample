@@ -57,7 +57,7 @@ Course Link: https://tds.s-anand.net/#/
 
 ## 🔄 Weekly Update Log
 | Week | What I Learned |
-|------|----------------|
+
 | Week   | Module                       | What I Learned                                                                                                                             |
 | ------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Week 1 | Development Tools            | Learned basics of development tools like Git, GitHub, and version control. Understood repository creation, commits, and README formatting. |
