@@ -45,9 +45,15 @@ Course Link: https://tds.s-anand.net/#/
 ---
 
 ## 🚀 Key Learnings So Far
-- (Update weekly)
-- Example: Understood system architecture basics
-- Example: Learned how APIs work
+* Learned basics of system architecture and how different components interact
+* Understood how APIs work and how to send/receive data
+* Gained hands-on experience with GitHub (repositories, commits, README updates)
+* Improved coding and problem-solving skills
+* Learned data sourcing and data preparation techniques
+* Understood data analysis concepts and basic operations
+* Explored data visualization and how to present insights effectively
+* Got introduction to AI tools and prompt-based coding
+
 
 ---
 
