@@ -1,5 +1,3 @@
-# Module 07: Data Visualization – Charts
-
 ## What are Charts?
 Charts are visual representations of data that help in understanding comparisons, trends, and patterns easily. They convert numerical data into graphical form, making it more readable and meaningful.
 
