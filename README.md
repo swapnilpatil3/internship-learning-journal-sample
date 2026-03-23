@@ -26,6 +26,9 @@ Course Link: https://tds.s-anand.net/#/
 | Module 02 | Tools & Implementation | Completed |
 | Module 03 | Large Language Module | Completed |
 | Module 04 | Data Sourcing         | completed  |
+| Module 05 | Data-Preparation      | Completed  |
+| Module 06 | Data -Analysis         | Completed |
+| Module 07 | Data-Visualization     |Completed |
 
 ---
 
